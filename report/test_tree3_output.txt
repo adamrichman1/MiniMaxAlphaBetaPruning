@@ -1,0 +1,15 @@
+python minimax_a_b.py test_tree3
+
+---Vanilla Minimax---
+Optimal Utility Value: 3
+Visited: ['A', 'B', 'E', 'L', 'M', 'F', 'N', 'O', 'G', 'P', 'Q', 'C', 'H', 'R', 'S', 'I', 'T', 'U', 'D', 'J', 'V', 'W', 'K', 'X', 'Y']
+
+
+---Alpha Beta Pruning Minimax---
+Optimal Utility Value: 3
+Visited: ['A', 'B', 'E', 'L', 'M', 'F', 'N', 'G', 'P', 'C', 'H', 'R', 'S', 'D', 'J', 'V', 'W']
+
+bash-3.2$ exit
+exit
+
+Script done on Sun Oct  7 10:24:24 2018
